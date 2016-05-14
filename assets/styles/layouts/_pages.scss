@@ -1,31 +1,35 @@
 body {
     font-size:180%;
-    text-transform: capitalize;
-
 }
 
 h1 {
-    font-size: 2.5em;
+    font-size: 3.3em;
 }
 
 h2 {
-    font-size: 1.875em;
+    font-size: 2.875em;
 }
-
 p {
-    font-size: 0.875em;
+
+    font-size: 0.975em;
 }
 
-.container {
+blockquote {}
 
-    text-transform: capitalize !important;
+::before, *::after {}
+* {
+    box-sizing: border-box;
+}
+.banner{}
+.container {}
+.nav-primary{}
+.wrap{}
+.content-info{}
+.brand {
 
+    font-size: 3.0em;
 
 }
-.brand{
-    font-size: 3.5em;
-}
-
-.nav-primary{
-
-}
+.main{}
+.page-header{}
+.nav-primary {}
