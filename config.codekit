@@ -11,13 +11,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/images\/backgroundBottom.png": {
+	"\/assets\/images\/bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 746043,
-		"inputAbbreviatedPath": "\/assets\/images\/backgroundBottom.png",
-		"outputAbbreviatedPath": "\/assets\/images\/backgroundBottom.png",
+		"inputAbbreviatedPath": "\/assets\/images\/bg.png",
+		"outputAbbreviatedPath": "\/assets\/images\/bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
